@@ -18,3 +18,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Create Decimal Numbers with JavaScript
 - Multiply Two Decimals with JavaScript
 - Divide One Decimal by Another with JavaScript
+- Finding a Remainder in JavaScript
