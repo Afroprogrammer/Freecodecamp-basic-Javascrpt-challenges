@@ -8,3 +8,5 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Storing Values with the Assignment Operator
 -Initializing Variables with the Assignment Operator
 -Understanding Uninitialized Variables
+-Understanding Case Sensitivity in Variables
+-Add Two Numbers with JavaScript
