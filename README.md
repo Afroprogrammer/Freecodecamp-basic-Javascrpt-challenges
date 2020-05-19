@@ -22,3 +22,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Compound Assignment With Augmented Addition
 - Compound Assignment With Augmented Subtraction
 - Compound Assignment With Augmented Multiplication
+- Compound Assignment With Augmented Division
