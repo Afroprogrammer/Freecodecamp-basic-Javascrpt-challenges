@@ -15,4 +15,5 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Divide One Number by Another with JavaScript
 - Increment a Number with JavaScriptPassed
 - Decrement a Number with JavaScript
--Create Decimal Numbers with JavaScript
+- Create Decimal Numbers with JavaScript
+- Multiply Two Decimals with JavaScript
