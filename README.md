@@ -11,3 +11,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 -Understanding Case Sensitivity in Variables
 -Add Two Numbers with JavaScript
 -Subtract One Number from Another with JavaScript
+- Multiply Two Numbers with JavaScript
