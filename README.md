@@ -17,3 +17,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Decrement a Number with JavaScript
 - Create Decimal Numbers with JavaScript
 - Multiply Two Decimals with JavaScript
+- Divide One Decimal by Another with JavaScript
