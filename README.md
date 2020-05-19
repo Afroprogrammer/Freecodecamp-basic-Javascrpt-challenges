@@ -7,3 +7,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Declare JavaScript Variables
 - Storing Values with the Assignment Operator
 -Initializing Variables with the Assignment Operator
+-Understanding Uninitialized Variables
