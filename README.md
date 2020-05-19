@@ -1,6 +1,6 @@
 # Freecodecamp-basic-Javascrpt-challenges
-My answers to all basic JavaScript challenges on freecodecamp.org
+My answers to all the basic JavaScript challenges on freecodecamp.org
 
-# Topics includes
------
+-----------------
+# Challenges inclucdes
 - Comment Your JavaScript Code
