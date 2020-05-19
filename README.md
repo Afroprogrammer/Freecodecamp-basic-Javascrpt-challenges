@@ -20,3 +20,4 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - Divide One Decimal by Another with JavaScript
 - Finding a Remainder in JavaScript
 - Compound Assignment With Augmented Addition
+- Compound Assignment With Augmented SubtractionPassed
