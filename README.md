@@ -3,7 +3,7 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 
 -----------------
 # Challenges inclucde
-- Comment Your JavaScript Code
+- [Comment Your JavaScript Code] (https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/Comment%20Your%20JavaScript.js)
 - Declare JavaScript Variables
 - Storing Values with the Assignment Operator
 - Initializing Variables with the Assignment Operator
