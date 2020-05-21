@@ -35,3 +35,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Use Bracket Notation to Find the First Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-first-character-in-a-string.js)
 - [Understand String Immutability](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/understand-string-immutability.js)
 - [Use Bracket Notation to Find the Nth Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-nth-character-in-a-string.js)
+- [Use Bracket Notation to Find the Last Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-last-character-in-a-string.js)
+- [Use Bracket Notation to Find the Nth-to-Last Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-nth-character-in-a-string.js)
+- [Word Blanks](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/word-blanks.js)
+- [Store Multiple Values in one Variable using JavaScript Arrays](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/store-multiple-values-in-one-variable-using-javascript-arrays.js)
+- [Nest one Array within Another Array](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/nest-one-array-within-another-array.js)
