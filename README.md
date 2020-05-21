@@ -40,3 +40,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Word Blanks](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/word-blanks.js)
 - [Store Multiple Values in one Variable using JavaScript Arrays](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/store-multiple-values-in-one-variable-using-javascript-arrays.js)
 - [Nest one Array within Another Array](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/nest-one-array-within-another-array.js)
+- [Access Array Data with Indexes](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/access-array-data-with-indexes.js)
+- [Modify Array Data With Indexes](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/modify-array-data-with-indexes.js)
+- [Access Multi-Dimensional Arrays With Indexes](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/access-multi-dimensional-arrays-with-indexes.js)
+- [Manipulate Arrays With push()](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/manipulate-arrays-with-push.js)
+- [Manipulate Arrays With pop()](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/manipulate-arrays-with-pop.js)
