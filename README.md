@@ -23,5 +23,5 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Compound Assignment With Augmented Subtraction](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/compound-assignment-with-augmented-subtraction.js)
 - [Compound Assignment With Augmented Multiplication](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/compound-assignment-with-augmented-multiplication.js)
 - [Compound Assignment With Augmented Division](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/compound-assignment-with-augmented-division.js)
--[Declare String Variables](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/declare-string-variables.js)
--[Escaping Literal Quotes in Strings](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/escaping-literal-quotes-in-strings.js)
+- [Declare String Variables](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/declare-string-variables.js)
+- [Escaping Literal Quotes in Strings](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/escaping-literal-quotes-in-strings.js)
