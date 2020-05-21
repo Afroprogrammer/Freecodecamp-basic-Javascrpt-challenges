@@ -30,3 +30,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Concatenating Strings with Plus Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/concatenating-strings-with-plus-operator.js)
 - [Concatenating Strings with the Plus Equals Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/concatenating-strings-with-the-plus-equals-operator.js)
 - [Constructing Strings with Variables](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/constructing-strings-with-variables.js)
+- [ Appending Variables to Strings](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/appending-variables-to-strings.js)
+- [Find the Length of a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/find-the-length-of-a-string.js)
+- [Use Bracket Notation to Find the First Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-first-character-in-a-string.js)
+- [Understand String Immutability](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/understand-string-immutability.js)
+- [Use Bracket Notation to Find the Nth Character in a String](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-bracket-notation-to-find-the-nth-character-in-a-string.js)
