@@ -26,4 +26,4 @@ function testLogicalOr(val) {
   return "Inside";
 }
 
-testLogicalOr(15);
+testLogicalOr(12);
