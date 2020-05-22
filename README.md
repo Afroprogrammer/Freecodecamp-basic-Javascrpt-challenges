@@ -54,3 +54,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Local Scope and Functions](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/local-scope-and-functions.js)
 - [Global vs. Local Scope in Functions](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/global-vs.-local-scope-in-functions.js)
 - [Return a Value from a Function with Return](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/return-a-value-from-a-function-with-return.js)
+- [Understanding Undefined Value returned from a Function](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/understanding-undefined-value-returned-from-a-function.js)
+- [Assignment with a Returned Value](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/assignment-with-a-returned-value.js)
+- [Stand in Line](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/stand-in-line.js)
+- [Understanding Boolean Values](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/understanding-boolean-values.js)
+- [Use Conditional Logic with If Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-conditional-logic-with-if-statements.js)
