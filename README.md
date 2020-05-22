@@ -59,3 +59,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Stand in Line](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/stand-in-line.js)
 - [Understanding Boolean Values](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/understanding-boolean-values.js)
 - [Use Conditional Logic with If Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-conditional-logic-with-if-statements.js)
+- [Comparison with the Equality Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparison-with-the-equality-operator.js)
+- [Comparison with the Strict Equality Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparison-with-the-strict-equality-operator.js)
+- [Practice comparing different values](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/practice-comparing-different-values.js)
+- [Comparison with the Inequality Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparison-with-the-inequality-operator.js)
+- [Comparison with the Strict Inequality Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparison-with-the-strict-inequality-operator.js)
