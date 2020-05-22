@@ -70,3 +70,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Comparisons with the Logical And Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparisons-with-the-logical-and-operator.js)
 - [Comparisons with the Logical Or Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/comparisons-with-the-logical-or-operator.js)
 - [Introducing Else Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/introducing-else-statements.js)
+- [Introducing Else If Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/introducing-else-if-statements.js)
+- [Logical Order in If Else Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/logical-order-in-if-else-statements.js)
+- [Chaining If Else Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/chaining-if-else-statements.js)
+- [Golf Code](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/golf-code.js)
+- [Selecting from Many Options with Switch Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/selecting-from-many-options-with-switch-statements.js)
