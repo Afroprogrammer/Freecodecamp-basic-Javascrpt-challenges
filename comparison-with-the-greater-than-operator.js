@@ -1,5 +1,4 @@
 //Add the greater than operator to the indicated lines so that the return statements make sense
-
 /**HINT** 
 testGreaterThan(0) should return "10 or Under"
 testGreaterThan(10) should return "10 or Under"
@@ -23,4 +22,4 @@ function testGreaterThan(val) {
   return "10 or Under";
 }
 
-testGreaterThan(10);
+testGreaterThan(15);
