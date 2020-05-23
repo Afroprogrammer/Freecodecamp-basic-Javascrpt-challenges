@@ -86,3 +86,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Accessing Object Properties with Bracket Notation](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-object-properties-with-bracket-notation.js)
 - [Accessing Object Properties with Variables](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-object-properties-with-variables.js)
 - [Updating Object Properties](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/updating-object-properties.js)
+- [Add New Properties to a JavaScript Object](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/updating-object-properties.js)
+- [Delete Properties from a JavaScript Object](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/delete-properties-from-a-javascript-object.js)
+- [Using Objects for Lookups](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/using-objects-for-lookups.js)
+- [Testing Objects for Properties](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/testing-objects-for-properties.js)
+- [Manipulating Complex Objects](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/manipulating-complex-objects.js)
