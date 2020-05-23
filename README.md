@@ -75,3 +75,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Chaining If Else Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/chaining-if-else-statements.js)
 - [Golf Code](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/golf-code.js)
 - [Selecting from Many Options with Switch Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/selecting-from-many-options-with-switch-statements.js)
+- [Adding a Default Option in Switch Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/adding-a-default-option-in-switch-statements.js)
+- [Multiple Identical Options in Switch Statements](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/multiple-identical-options-in-switch-statements.js)
+- [Replacing If Else Chains with Switch](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/replacing-if-else-chains-with-switch.js)
+- [Returning Boolean Values from Functions](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/returning-boolean-values-from-functions.js)
+- [Return Early Pattern for Functions](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/return-early-pattern-for-functions.js)
