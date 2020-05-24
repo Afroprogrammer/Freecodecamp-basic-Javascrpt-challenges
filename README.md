@@ -93,3 +93,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Manipulating Complex Objects](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/manipulating-complex-objects.js)
 - [Accessing Nested Objects](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-nested-objects.js)
 - [Accessing Nested Arrays](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-nested-arrays.js)
+- [Record Collection]()
+- [Iterate with JavaScript While Loops](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-with-javascript-while-loops.js)
+- [Iterate with JavaScript For Loops](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-with-javascript-for-loops.js)
+- [Iterate Odd Numbers With a For Loop](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-odd-numbers-with-a-for-loop.js)
+- [Count Backwards With a For Loop](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/count-backwards-with-a-for-loop.js)
