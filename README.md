@@ -91,3 +91,5 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Using Objects for Lookups](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/using-objects-for-lookups.js)
 - [Testing Objects for Properties](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/testing-objects-for-properties.js)
 - [Manipulating Complex Objects](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/manipulating-complex-objects.js)
+- [Accessing Nested Objects](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-nested-objects.js)
+- [Accessing Nested Arrays](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/accessing-nested-arrays.js)
