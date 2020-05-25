@@ -98,3 +98,8 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Iterate with JavaScript For Loops](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-with-javascript-for-loops.js)
 - [Iterate Odd Numbers With a For Loop](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-odd-numbers-with-a-for-loop.js)
 - [Count Backwards With a For Loop](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/count-backwards-with-a-for-loop.js)
+- [Iterate Through an Array with a For Loop](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-through-an-array-with-a-for-loop.js)
+- [Nesting For Loops](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/nesting-for-loops.js)
+- [Iterate with JavaScript Do...While Loops](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/iterate-with-javascript-do...while-loops.js)
+- [Replace Loops using Recursion](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/replace-loops-using-recursion.js)
+- [Profile Lookup](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/profile-lookup.js)
