@@ -1,4 +1,8 @@
 # Freecodecamp-basic-Javascrpt-challenges
+<center>
+<img src= "image/fcc%20_image.png">
+</center>
+
 My answers to all the basic JavaScript challenges on freecodecamp.org
 
 -----------------
