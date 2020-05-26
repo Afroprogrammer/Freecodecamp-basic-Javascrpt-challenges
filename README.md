@@ -110,3 +110,5 @@ My answers to all the basic JavaScript challenges on freecodecamp.org
 - [Use the parseInt Function with a Radix](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-the-parseint-function-with-a-radix.js)
 - [Use the Conditional (Ternary) Operator](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-the-conditional-ternary-operator.js)
 - [Use Multiple Conditional (Ternary) Operators](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-multiple-conditional-ternary-operators.js)
+- [Use Recursion to Create a Countdown](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-recursion-to-create-a-countdown.js)
+- [Use Recursion to Create a Range of Numbers](https://github.com/Afroprogrammer/Freecodecamp-basic-Javascrpt-challenges/blob/master/use-recursion-to-create-a-range-of-numbers.js)
